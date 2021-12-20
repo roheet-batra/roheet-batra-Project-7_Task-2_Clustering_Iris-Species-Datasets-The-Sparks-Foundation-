@@ -1,4 +1,3 @@
-# roheet-batra-Project-7_Task-2_Clustering_Iris-Species-Datasets-The-Sparks-Foundation-
 
 ## <font color = Green > Problem Statement </font>  
 
